@@ -64,38 +64,6 @@
 
         </div>
 
-        
-
-        <div class="form-group row">
-            <label for="contraseña" class="col-form-label col-sm-4">Programa:</label>
-          <div class="col-sm-8">
-            <input type="text" name="password" id="password" class="form-control" placeholder="Programa cursado" tabindex="6">
-          </div>
-        </div>
-
-        <div class="row">
-            <div class="col-xs-6 col-sm-6 col-md-6">
-
-                <div class="form-group row">
-                    <label for="password" class="col-form-label col-sm-4">Facultad:</label>
-                  <div class="col-sm-8">
-                    <input type="text" name="password" id="password" class="form-control" placeholder="Nombre de la Facultad" tabindex="6">
-                  </div>
-                </div>
-
-            </div>
-
-            <div class="col-xs-6 col-sm-6 col-md-6">
-
-                <div class="form-group row">
-                    <label for="password" class="col-form-label col-sm-4">Semestre:</label>
-                  <div class="col-sm-8">
-                    <input type="number" name="semesre" id="semestre" class="form-control" placeholder="Ingresa el semestre cursado" tabindex="7">
-                  </div>
-                </div>
-
-            </div>
-        </div>
 
         <div class="row">
             <div class="col-xs-6 col-md-6"><input type="submit" value="Guardar" class="btn btn-danger btn-block btn-lg" tabindex="7"
